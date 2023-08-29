@@ -1,4 +1,4 @@
-# SUPER-STORE-
+# SuperStore
 1) In this project we extracted the insights  according to the super store  dataset.
 2) Task Done :
 3) Collect and clean the data to find out the best feature for our data.
